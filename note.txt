@@ -1,0 +1,3 @@
+color name
+color code or hexcode  
+reb color
